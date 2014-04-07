@@ -1,0 +1,32 @@
+{
+  "name": "lab2",
+  "version": "0.0.0",
+  "description": "",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zjoyce/lab2.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "joyce z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjoyce/lab2/issues"
+  },
+  "homepage": "https://github.com/zjoyce/lab2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
+
